@@ -1,7 +1,7 @@
-# Terceiro trimestre
+# Terceiro Trimestre
 
-## identificação
-nome: bruno volponi nr30 1j
+## Identificação
+nome:Bruno Vvolponi - Nr.30 1j
 
-## assuntos
-HTML, css e javaScript
+## Conteúdo
+HTML, CSS, javaScript

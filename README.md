@@ -1,7 +1,7 @@
 # Terceiro Trimestre
 
 ## Identificação
-Bruno Volponi - 1J- Nr 30
+Bruno volponi 1j - Nr.30
 
 ## Conteúdo
-HTML, css, javascript
+HTML, CSS, javaScript
